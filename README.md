@@ -1,7 +1,10 @@
-## Hey, I'm Shashank. 
+## Hey, I'm Shashank! 
 
 I'm studying computer science and applied math at the University of Maryland, College Park.
+
 Email aravashashank@gmail.com for collaborations
+
+Connect with me [here](https://www.linkedin.com/in/shashank-arava/)
 
 <!--
 **ssarava/ssarava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
