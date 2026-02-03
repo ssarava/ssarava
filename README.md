@@ -1,10 +1,23 @@
-## Hey, I'm Shashank! 
+## Hey! 👋
+I'm Shashank, an aspiring software engineer. This is a part of my digital workshop, where ideas occasionally behave and code occasionally compiles on the first try. I build things, break things, and frequently learn things along the way.
 
-I'm studying computer science and applied math at the University of Maryland, College Park.
+- CS + Math dual degrees @ UMD 🐢
 
-Email aravashashank@gmail.com for collaborations
+- former Biostatics and Software Intern at [HBS](https://www.harmonybiosciences.com/about-us/)
 
-Connect with me <a href="https://www.linkedin.com/in/shashank-arava/" target="_blank">here</a>
+- former Software Development Intern at [Akira](https://www.akira-tech.com/)
+
+- game development and graphics programming hobbyist
+
+## Skills
+- 👨‍💻 C, C++, Java, Javascript, PHP, PostgreSQL, Python, etc...
+- ⚙️ React, Vue
+- 💽 MySQL, PostgreSQL, MongoDB, Firebase
++ a few more :D
+
+## Contact
+- <a href="https://www.linkedin.com/in/shashank-arava/" target="_blank">LinkedIn</a>
+- Email aravashashank@gmail.com for collaborations, opportunities, or my resume
 
 <!--
 **ssarava/ssarava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
